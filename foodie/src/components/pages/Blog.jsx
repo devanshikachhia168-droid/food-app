@@ -1,10 +1,10 @@
 import React from 'react'
 
-export default function Home() {
+export const Blog = () => {
   return (
     <div>
       
-      <h1>This is my Home page.s</h1>
+        <h1>This is my Blog page</h1>
     </div>
   )
 }
